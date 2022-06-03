@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  TicTacToeGame.cpp
+  Generating Code...
+C:\Users\aswin\Documents\TicTacToeGame\TicTacToeGame\Game.cpp(182): warning C4715: 'TicTacToe::move': not all control paths return a value
+  TicTacToeGame.vcxproj -> C:\Users\aswin\Documents\TicTacToeGame\x64\Debug\TicTacToeGame.exe

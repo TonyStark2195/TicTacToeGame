@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\aswin\Documents\TicTacToeGame\x64\Debug\TicTacToeGameTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="GameStateTest.DefaultTest" Duration="1" />
+    <TestDuration Test="GameStateTest.UserTest" Duration="1" />
+    <TestDuration Test="GameMoveTest.ValidMove" Duration="1" />
+    <TestDuration Test="GameMoveTest.InvalidMove" Duration="1" />
+    <TestDuration Test="GameMoveValidityTest.ValidMove" Duration="1" />
+    <TestDuration Test="GameMoveValidityTest.InvalidMove" Duration="1" />
+    <TestDuration Test="WinnerTest.WinnerX" Duration="1" />
+    <TestDuration Test="WinnerTest.WinnerO" Duration="1" />
+    <TestDuration Test="GameOverTest.DrawGame" Duration="1" />
+    <TestDuration Test="GameOverTest.WinnerX" Duration="1" />
+    <TestDuration Test="GameOverTest.WinnerO" Duration="1" />
+    <TestDuration Test="TrackPlayerTest.TrackX" Duration="1" />
+    <TestDuration Test="TrackPlayerTest.TrackO" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
